@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Admin_MUC_25022019">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BOOM:BOOM\Boss">
+          <Created>2019-02-25T14:46:19.3758541+01:00</Created>
+          <Type>SQL</Type>
+          <Server>BOOM</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB>Northwind</InitialDB>
+          <LoginTimeout>0</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0001_FirstSettings.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0001_FirstSettings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0002_DBSetttings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0002_DBSetttings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_DBObjekte.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0003_DBObjekte.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0004_SystemDBs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0004_SystemDBs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_Backup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0005_Backup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_Prozesse_killen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0006_Prozesse_killen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Security.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_Security.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007A_Sec_otto.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007A_Sec_otto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_DBMail.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0008_DBMail.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_Warnungen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0009_Warnungen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0010_Contained.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0010_Contained.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_Proxy.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0011_Proxy.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0020_Indizes.sql.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0020_Indizes.sql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0030_DMV.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0030_DMV.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_help_rev_login.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_help_rev_login.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
